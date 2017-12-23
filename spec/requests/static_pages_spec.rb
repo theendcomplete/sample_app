@@ -1,5 +1,5 @@
 require 'rails_helper'
-require 'spec/support/utilities'
+require 'spec_helper'
 
 describe "Static pages" do
 
